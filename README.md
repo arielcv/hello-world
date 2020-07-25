@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-I'm student at CUJAE,in Cuba, and I'm very interested in programming and developing
+I would say that I'm restarting my experimentation In GitHub
+# 2020/07/25
